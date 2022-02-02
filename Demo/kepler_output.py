@@ -189,8 +189,5 @@ def kep_out(data_loc):
 
     comb = gdf.merge(pd_df, left_on='PREC', right_on='area')
     comb1 = gdf.merge(t_df, left_on='PREC', right_on='area')
-    print(type(comb1))
-    print(type(comb))
-    print('1', comb1)
-    print('2nd', comb)
+
     return comb1, config
