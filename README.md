@@ -58,6 +58,3 @@ The following software and tools were used to create this application:
     - Github
     - Git
     - Jupyter Notebook
-
-
-## ***To view a demo of the application, click [here](https://drive.google.com/file/d/1hB8RYxFXCXPB5-pG7UXwCKUV-_z8JEYn/view?usp=sharing).***
